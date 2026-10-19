@@ -9,7 +9,7 @@
 
 ## 公開URL
 
-GitHub Pages で公開予定です（設定後にここへURLを書きます）。
+https://fuyuyuyu1017.github.io/pitatto/
 
 ## 素材とクレジット
 
